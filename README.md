@@ -3,4 +3,4 @@ BDA
 
 proyecto BDA
 
-- [ ] hola mundo
+- [x] hola mundo
